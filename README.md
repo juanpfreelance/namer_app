@@ -1,3 +1,3 @@
-# namer_app
+# Namer Application using Flutter
 
-A new Flutter project.
+![App Image](https://github.com/juanpfreelance/namer_app/blob/master/readme.gif?raw=true)
